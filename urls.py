@@ -31,3 +31,5 @@ if settings.DEBUG:
 admin.site.site_header = "DRF 登录系统管理"
 admin.site.site_title = "DRF 管理"
 admin.site.index_title = "欢迎使用 DRF 登录系统" 
+
+dssad
